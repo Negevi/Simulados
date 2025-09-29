@@ -1,5 +1,7 @@
 C++ 2D Collision Simulator using Raylib, by Nicolas Lemke.
 
+https://www.youtube.com/watch?v=UoBc7cA5OOw <-- showcase video
+
 This program uses a different approach to collision handling (in turn more efficient), see references for more.
 Settings can be altered in the constant definitions
 
